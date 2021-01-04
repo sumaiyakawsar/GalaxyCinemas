@@ -1,0 +1,159 @@
+E:\CC215 Visual Basic.net\Solutions\MovieDatabase\MovieDatabase\bin\Debug\MovieDatabase.exe.config
+F:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\obj\Debug\MovieDatabase.vbproj.GenerateResource.Cache
+E:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\obj\Debug\MovieDatabase.vbprojResolveAssemblyReference.cache
+E:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\obj\Debug\MovieDatabase.vbproj.GenerateResource.Cache
+E:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\bin\Debug\AquaCinema.mdf
+E:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\bin\Debug\AquaCinema_log.ldf
+F:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\bin\Debug\AquaCinema.mdf
+F:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\bin\Debug\AquaCinema_log.ldf
+F:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\bin\Debug\Galaxy Cinemas.exe.config
+F:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\bin\Debug\Galaxy Cinemas.exe
+F:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\bin\Debug\Galaxy Cinemas.pdb
+F:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\bin\Debug\Galaxy Cinemas.xml
+F:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\obj\Debug\Galaxy Cinemas.exe
+F:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\obj\Debug\Galaxy Cinemas.xml
+F:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\obj\Debug\Galaxy Cinemas.pdb
+F:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\obj\Debug\GalaxyCinemas.AboutBox1.resources
+F:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\obj\Debug\GalaxyCinemas.CustomerMainPAge.resources
+F:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\obj\Debug\GalaxyCinemas.MainStaffPage.resources
+F:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\obj\Debug\GalaxyCinemas.SplashScreen1.resources
+F:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\obj\Debug\GalaxyCinemas.AddMovie.resources
+F:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\obj\Debug\GalaxyCinemas.BookingSeats.resources
+F:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\obj\Debug\GalaxyCinemas.SummaryTickets.resources
+F:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\obj\Debug\GalaxyCinemas.TicketBuyingScreen.resources
+F:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\obj\Debug\GalaxyCinemas.LoginForm1.resources
+F:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\obj\Debug\GalaxyCinemas.Resources.resources
+E:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\bin\Debug\Galaxy Cinemas.exe.config
+E:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\obj\Debug\Galaxy Cinemas.exe
+E:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\obj\Debug\Galaxy Cinemas.xml
+E:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\obj\Debug\Galaxy Cinemas.pdb
+E:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\obj\Debug\GalaxyCinemas.AboutBox1.resources
+E:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\obj\Debug\GalaxyCinemas.CustomerMainPAge.resources
+E:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\obj\Debug\GalaxyCinemas.MainStaffPage.resources
+E:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\obj\Debug\GalaxyCinemas.SplashScreen1.resources
+E:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\obj\Debug\GalaxyCinemas.AddMovie.resources
+E:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\obj\Debug\GalaxyCinemas.BookingSeats.resources
+E:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\obj\Debug\GalaxyCinemas.SummaryTickets.resources
+E:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\obj\Debug\GalaxyCinemas.TicketBuyingScreen.resources
+E:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\obj\Debug\GalaxyCinemas.LoginForm1.resources
+E:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\obj\Debug\GalaxyCinemas.Resources.resources
+E:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\bin\Debug\Galaxy Cinemas.exe
+E:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\bin\Debug\Galaxy Cinemas.pdb
+E:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\bin\Debug\Galaxy Cinemas.xml
+E:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\obj\Debug\GalaxyCinemas.BookingHistory.resources
+F:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\obj\Debug\GalaxyCinemas.BookingHistory.resources
+D:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\bin\Debug\AquaCinema.mdf
+D:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\bin\Debug\AquaCinema_log.ldf
+D:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\bin\Debug\Galaxy Cinemas.exe.config
+D:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\bin\Debug\Galaxy Cinemas.exe
+D:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\bin\Debug\Galaxy Cinemas.pdb
+D:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\bin\Debug\Galaxy Cinemas.xml
+D:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\obj\Debug\GalaxyCinemas.AboutBox1.resources
+D:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\obj\Debug\GalaxyCinemas.BookingHistory.resources
+D:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\obj\Debug\GalaxyCinemas.CustomerMainPAge.resources
+D:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\obj\Debug\GalaxyCinemas.MainStaffPage.resources
+D:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\obj\Debug\GalaxyCinemas.SplashScreen1.resources
+D:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\obj\Debug\GalaxyCinemas.AddMovie.resources
+D:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\obj\Debug\GalaxyCinemas.BookingSeats.resources
+D:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\obj\Debug\GalaxyCinemas.SummaryTickets.resources
+D:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\obj\Debug\GalaxyCinemas.TicketBuyingScreen.resources
+D:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\obj\Debug\GalaxyCinemas.LoginForm1.resources
+D:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\obj\Debug\GalaxyCinemas.Resources.resources
+D:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\obj\Debug\MovieDatabase.vbproj.GenerateResource.cache
+D:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\obj\Debug\Galaxy Cinemas.exe
+D:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\obj\Debug\Galaxy Cinemas.xml
+D:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\obj\Debug\Galaxy Cinemas.pdb
+D:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\obj\Debug\MovieDatabase.vbprojResolveAssemblyReference.cache
+G:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\bin\Debug\Galaxy Cinemas.exe.config
+G:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\obj\Debug\Galaxy Cinemas.exe
+G:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\obj\Debug\Galaxy Cinemas.xml
+G:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\obj\Debug\Galaxy Cinemas.pdb
+G:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\bin\Debug\AquaCinema.mdf
+G:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\bin\Debug\AquaCinema_log.ldf
+G:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\bin\Debug\Galaxy Cinemas.exe
+G:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\bin\Debug\Galaxy Cinemas.pdb
+G:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\bin\Debug\Galaxy Cinemas.xml
+G:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\obj\Debug\MovieDatabase.vbprojResolveAssemblyReference.cache
+G:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\obj\Debug\GalaxyCinemas.AboutBox1.resources
+G:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\obj\Debug\GalaxyCinemas.BookingHistory.resources
+G:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\obj\Debug\GalaxyCinemas.CustomerMainPAge.resources
+G:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\obj\Debug\GalaxyCinemas.MainStaffPage.resources
+G:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\obj\Debug\GalaxyCinemas.SplashScreen1.resources
+G:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\obj\Debug\GalaxyCinemas.AddMovie.resources
+G:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\obj\Debug\GalaxyCinemas.BookingSeats.resources
+G:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\obj\Debug\GalaxyCinemas.SummaryTickets.resources
+G:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\obj\Debug\GalaxyCinemas.TicketBuyingScreen.resources
+G:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\obj\Debug\GalaxyCinemas.LoginForm1.resources
+G:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\obj\Debug\GalaxyCinemas.Resources.resources
+G:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\obj\Debug\MovieDatabase.vbproj.GenerateResource.Cache
+F:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\obj\Debug\MovieDatabase.vbprojAssemblyReference.cache
+F:\CC215 Visual Basic.net\Projects\MovieDatabase\MovieDatabase\obj\Debug\MovieDatabase.vbproj.CoreCompileInputs.cache
+E:\Studied\2019-05\Sumaiya (1001540925)\Sumaiya (1001540925)\GalaxyCinemas\MovieDatabase\bin\Debug\AquaCinema.mdf
+E:\Studied\2019-05\Sumaiya (1001540925)\Sumaiya (1001540925)\GalaxyCinemas\MovieDatabase\bin\Debug\AquaCinema_log.ldf
+E:\Studied\2019-05\Sumaiya (1001540925)\Sumaiya (1001540925)\GalaxyCinemas\MovieDatabase\bin\Debug\Galaxy Cinemas.exe.config
+E:\Studied\2019-05\Sumaiya (1001540925)\Sumaiya (1001540925)\GalaxyCinemas\MovieDatabase\bin\Debug\Galaxy Cinemas.exe
+E:\Studied\2019-05\Sumaiya (1001540925)\Sumaiya (1001540925)\GalaxyCinemas\MovieDatabase\bin\Debug\Galaxy Cinemas.pdb
+E:\Studied\2019-05\Sumaiya (1001540925)\Sumaiya (1001540925)\GalaxyCinemas\MovieDatabase\bin\Debug\Galaxy Cinemas.xml
+E:\Studied\2019-05\Sumaiya (1001540925)\Sumaiya (1001540925)\GalaxyCinemas\MovieDatabase\obj\Debug\MovieDatabase.vbprojAssemblyReference.cache
+E:\Studied\2019-05\Sumaiya (1001540925)\Sumaiya (1001540925)\GalaxyCinemas\MovieDatabase\obj\Debug\GalaxyCinemas.AboutBox1.resources
+E:\Studied\2019-05\Sumaiya (1001540925)\Sumaiya (1001540925)\GalaxyCinemas\MovieDatabase\obj\Debug\GalaxyCinemas.BookingHistory.resources
+E:\Studied\2019-05\Sumaiya (1001540925)\Sumaiya (1001540925)\GalaxyCinemas\MovieDatabase\obj\Debug\GalaxyCinemas.CustomerMainPage.resources
+E:\Studied\2019-05\Sumaiya (1001540925)\Sumaiya (1001540925)\GalaxyCinemas\MovieDatabase\obj\Debug\GalaxyCinemas.MainStaffPage.resources
+E:\Studied\2019-05\Sumaiya (1001540925)\Sumaiya (1001540925)\GalaxyCinemas\MovieDatabase\obj\Debug\GalaxyCinemas.SplashScreen1.resources
+E:\Studied\2019-05\Sumaiya (1001540925)\Sumaiya (1001540925)\GalaxyCinemas\MovieDatabase\obj\Debug\GalaxyCinemas.AddMovie.resources
+E:\Studied\2019-05\Sumaiya (1001540925)\Sumaiya (1001540925)\GalaxyCinemas\MovieDatabase\obj\Debug\GalaxyCinemas.BookingSeats.resources
+E:\Studied\2019-05\Sumaiya (1001540925)\Sumaiya (1001540925)\GalaxyCinemas\MovieDatabase\obj\Debug\GalaxyCinemas.SummaryTickets.resources
+E:\Studied\2019-05\Sumaiya (1001540925)\Sumaiya (1001540925)\GalaxyCinemas\MovieDatabase\obj\Debug\GalaxyCinemas.TicketBuyingScreen.resources
+E:\Studied\2019-05\Sumaiya (1001540925)\Sumaiya (1001540925)\GalaxyCinemas\MovieDatabase\obj\Debug\GalaxyCinemas.LoginForm1.resources
+E:\Studied\2019-05\Sumaiya (1001540925)\Sumaiya (1001540925)\GalaxyCinemas\MovieDatabase\obj\Debug\GalaxyCinemas.Resources.resources
+E:\Studied\2019-05\Sumaiya (1001540925)\Sumaiya (1001540925)\GalaxyCinemas\MovieDatabase\obj\Debug\MovieDatabase.vbproj.GenerateResource.cache
+E:\Studied\2019-05\Sumaiya (1001540925)\Sumaiya (1001540925)\GalaxyCinemas\MovieDatabase\obj\Debug\MovieDatabase.vbproj.CoreCompileInputs.cache
+E:\Studied\2019-05\Sumaiya (1001540925)\Sumaiya (1001540925)\GalaxyCinemas\MovieDatabase\obj\Debug\Galaxy Cinemas.exe
+E:\Studied\2019-05\Sumaiya (1001540925)\Sumaiya (1001540925)\GalaxyCinemas\MovieDatabase\obj\Debug\Galaxy Cinemas.xml
+E:\Studied\2019-05\Sumaiya (1001540925)\Sumaiya (1001540925)\GalaxyCinemas\MovieDatabase\obj\Debug\Galaxy Cinemas.pdb
+C:\Users\User\Desktop\Sumaiya (1001540925)\GalaxyCinemas\MovieDatabase\bin\Debug\AquaCinema.mdf
+C:\Users\User\Desktop\Sumaiya (1001540925)\GalaxyCinemas\MovieDatabase\bin\Debug\AquaCinema_log.ldf
+C:\Users\User\Desktop\Sumaiya (1001540925)\GalaxyCinemas\MovieDatabase\bin\Debug\Galaxy Cinemas.exe.config
+C:\Users\User\Desktop\Sumaiya (1001540925)\GalaxyCinemas\MovieDatabase\bin\Debug\Galaxy Cinemas.exe
+C:\Users\User\Desktop\Sumaiya (1001540925)\GalaxyCinemas\MovieDatabase\bin\Debug\Galaxy Cinemas.pdb
+C:\Users\User\Desktop\Sumaiya (1001540925)\GalaxyCinemas\MovieDatabase\bin\Debug\Galaxy Cinemas.xml
+C:\Users\User\Desktop\Sumaiya (1001540925)\GalaxyCinemas\MovieDatabase\obj\Debug\MovieDatabase.vbprojAssemblyReference.cache
+C:\Users\User\Desktop\Sumaiya (1001540925)\GalaxyCinemas\MovieDatabase\obj\Debug\GalaxyCinemas.AboutBox1.resources
+C:\Users\User\Desktop\Sumaiya (1001540925)\GalaxyCinemas\MovieDatabase\obj\Debug\GalaxyCinemas.BookingHistory.resources
+C:\Users\User\Desktop\Sumaiya (1001540925)\GalaxyCinemas\MovieDatabase\obj\Debug\GalaxyCinemas.CustomerMainPage.resources
+C:\Users\User\Desktop\Sumaiya (1001540925)\GalaxyCinemas\MovieDatabase\obj\Debug\GalaxyCinemas.MainStaffPage.resources
+C:\Users\User\Desktop\Sumaiya (1001540925)\GalaxyCinemas\MovieDatabase\obj\Debug\GalaxyCinemas.SplashScreen1.resources
+C:\Users\User\Desktop\Sumaiya (1001540925)\GalaxyCinemas\MovieDatabase\obj\Debug\GalaxyCinemas.AddMovie.resources
+C:\Users\User\Desktop\Sumaiya (1001540925)\GalaxyCinemas\MovieDatabase\obj\Debug\GalaxyCinemas.BookingSeats.resources
+C:\Users\User\Desktop\Sumaiya (1001540925)\GalaxyCinemas\MovieDatabase\obj\Debug\GalaxyCinemas.SummaryTickets.resources
+C:\Users\User\Desktop\Sumaiya (1001540925)\GalaxyCinemas\MovieDatabase\obj\Debug\GalaxyCinemas.TicketBuyingScreen.resources
+C:\Users\User\Desktop\Sumaiya (1001540925)\GalaxyCinemas\MovieDatabase\obj\Debug\GalaxyCinemas.LoginForm1.resources
+C:\Users\User\Desktop\Sumaiya (1001540925)\GalaxyCinemas\MovieDatabase\obj\Debug\GalaxyCinemas.Resources.resources
+C:\Users\User\Desktop\Sumaiya (1001540925)\GalaxyCinemas\MovieDatabase\obj\Debug\MovieDatabase.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\Sumaiya (1001540925)\GalaxyCinemas\MovieDatabase\obj\Debug\MovieDatabase.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Sumaiya (1001540925)\GalaxyCinemas\MovieDatabase\obj\Debug\Galaxy Cinemas.exe
+C:\Users\User\Desktop\Sumaiya (1001540925)\GalaxyCinemas\MovieDatabase\obj\Debug\Galaxy Cinemas.xml
+C:\Users\User\Desktop\Sumaiya (1001540925)\GalaxyCinemas\MovieDatabase\obj\Debug\Galaxy Cinemas.pdb
+C:\GalaxyCinemas\MovieDatabase\bin\Debug\AquaCinema.mdf
+C:\GalaxyCinemas\MovieDatabase\bin\Debug\AquaCinema_log.ldf
+C:\GalaxyCinemas\MovieDatabase\bin\Debug\Galaxy Cinemas.exe.config
+C:\GalaxyCinemas\MovieDatabase\bin\Debug\Galaxy Cinemas.exe
+C:\GalaxyCinemas\MovieDatabase\bin\Debug\Galaxy Cinemas.pdb
+C:\GalaxyCinemas\MovieDatabase\bin\Debug\Galaxy Cinemas.xml
+C:\GalaxyCinemas\MovieDatabase\obj\Debug\MovieDatabase.vbprojAssemblyReference.cache
+C:\GalaxyCinemas\MovieDatabase\obj\Debug\GalaxyCinemas.AboutBox1.resources
+C:\GalaxyCinemas\MovieDatabase\obj\Debug\GalaxyCinemas.BookingHistory.resources
+C:\GalaxyCinemas\MovieDatabase\obj\Debug\GalaxyCinemas.CustomerMainPage.resources
+C:\GalaxyCinemas\MovieDatabase\obj\Debug\GalaxyCinemas.MainStaffPage.resources
+C:\GalaxyCinemas\MovieDatabase\obj\Debug\GalaxyCinemas.SplashScreen1.resources
+C:\GalaxyCinemas\MovieDatabase\obj\Debug\GalaxyCinemas.AddMovie.resources
+C:\GalaxyCinemas\MovieDatabase\obj\Debug\GalaxyCinemas.BookingSeats.resources
+C:\GalaxyCinemas\MovieDatabase\obj\Debug\GalaxyCinemas.SummaryTickets.resources
+C:\GalaxyCinemas\MovieDatabase\obj\Debug\GalaxyCinemas.TicketBuyingScreen.resources
+C:\GalaxyCinemas\MovieDatabase\obj\Debug\GalaxyCinemas.LoginForm1.resources
+C:\GalaxyCinemas\MovieDatabase\obj\Debug\GalaxyCinemas.Resources.resources
+C:\GalaxyCinemas\MovieDatabase\obj\Debug\MovieDatabase.vbproj.GenerateResource.cache
+C:\GalaxyCinemas\MovieDatabase\obj\Debug\MovieDatabase.vbproj.CoreCompileInputs.cache
+C:\GalaxyCinemas\MovieDatabase\obj\Debug\Galaxy Cinemas.exe
+C:\GalaxyCinemas\MovieDatabase\obj\Debug\Galaxy Cinemas.xml
+C:\GalaxyCinemas\MovieDatabase\obj\Debug\Galaxy Cinemas.pdb
