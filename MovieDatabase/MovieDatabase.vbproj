@@ -1,0 +1,286 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3800B15B-E95D-42FF-B530-0FAB3AC26CF1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>GalaxyCinemas.My.MyApplication</StartupObject>
+    <RootNamespace>GalaxyCinemas</RootNamespace>
+    <AssemblyName>Galaxy Cinemas</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Galaxy Cinemas.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Galaxy Cinemas.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutBox1.Designer.vb">
+      <DependentUpon>AboutBox1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AboutBox1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="AquaCinemaDataSet1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AquaCinemaDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AquaCinemaDataSet1.vb">
+      <DependentUpon>AquaCinemaDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="BookingHistory.Designer.vb">
+      <DependentUpon>BookingHistory.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BookingHistory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BookingSeats.Designer.vb">
+      <DependentUpon>BookingSeats.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BookingSeats.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerMainPage.Designer.vb">
+      <DependentUpon>CustomerMainPage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerMainPage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainStaffPage.designer.vb">
+      <DependentUpon>MainStaffPage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MainStaffPage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SplashScreen1.Designer.vb">
+      <DependentUpon>SplashScreen1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SplashScreen1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Staff\AddMovie.Designer.vb">
+      <DependentUpon>AddMovie.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Staff\AddMovie.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SummaryTickets.Designer.vb">
+      <DependentUpon>SummaryTickets.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SummaryTickets.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TicketBuyingScreen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TicketBuyingScreen.Designer.vb">
+      <DependentUpon>TicketBuyingScreen.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm1.Designer.vb">
+      <DependentUpon>LoginForm1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AboutBox1.resx">
+      <DependentUpon>AboutBox1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BookingHistory.resx">
+      <DependentUpon>BookingHistory.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerMainPAge.resx">
+      <DependentUpon>CustomerMainPage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainStaffPage.resx">
+      <DependentUpon>MainStaffPage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SplashScreen1.resx">
+      <DependentUpon>SplashScreen1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Staff\AddMovie.resx">
+      <DependentUpon>AddMovie.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BookingSeats.resx">
+      <DependentUpon>BookingSeats.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SummaryTickets.resx">
+      <DependentUpon>SummaryTickets.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TicketBuyingScreen.resx">
+      <DependentUpon>TicketBuyingScreen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm1.resx">
+      <DependentUpon>LoginForm1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="AquaCinemaDataSet1.xsc">
+      <DependentUpon>AquaCinemaDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="AquaCinemaDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AquaCinemaDataSet1.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AquaCinemaDataSet1.xss">
+      <DependentUpon>AquaCinemaDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="AquaCinema.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="AquaCinema_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>AquaCinema.mdf</DependentUpon>
+    </Content>
+    <None Include="Resources\latest.jpg" />
+    <None Include="Resources\06408a0c8b25c451.png" />
+    <None Include="Resources\20246-4-light-transparent.png" />
+    <None Include="Resources\5ebc3462a22fb660ec67166f9a7b9420 - Copy - Copy1.png" />
+    <None Include="Resources\5ebc3462a22fb660ec67166f9a7b9420 - Copy - Copy.png" />
+    <None Include="Resources\58857db099ec21.png" />
+    <None Include="Resources\06408a0c8b25c45.png" />
+    <None Include="Resources\58857db099ec2.png" />
+    <None Include="Resources\Border2.png" />
+    <None Include="Resources\User.png" />
+    <None Include="Resources\SplashScreen2.jpg" />
+    <None Include="Resources\Movies.png" />
+    <None Include="Resources\frame.png" />
+    <None Include="Resources\Back2.jpeg" />
+    <None Include="Resources\Back1.jpeg" />
+    <None Include="Resources\Galaxy1yhfg.png" />
+    <None Include="Resources\bg.png" />
+    <None Include="Resources\Reserved.png" />
+    <None Include="Resources\Selected.png" />
+    <None Include="Resources\Unselected.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
