@@ -1,6 +1,5 @@
  <h1 align="center"> GalaxyCinemas
- (Visual Basic. Net Assignment)
-
+ 
  
 
  ![Created Badge](https://badges.pufler.dev/created/sumaiyakawsar/GalaxyCinemas?&style=plastic&color=black&labelColor=1AEE0B) ![Updated Badge](https://badges.pufler.dev/updated/sumaiyakawsar/GalaxyCinemas?&style=plastic&color=black&labelColor=0004FF) ![Visits Badge](https://badges.pufler.dev/visits/sumaiyakawsar/GalaxyCinemas?&style=plastic&color=black&labelColor=BF3F41) ![Reason Badge](https://img.shields.io/badge/University_Assignment-red?style=plastic) ![Subject Badge](https://img.shields.io/badge/Subject-Visual_Basic._Net-purple?style=plastic&labelColor=000000) 
